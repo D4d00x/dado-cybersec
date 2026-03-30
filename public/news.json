@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-29T07:02:38.083Z",
+  "lastUpdated": "2026-03-30T07:26:51.075Z",
   "articles": [
+    {
+      "title": "European Commission confirms data breach after Europa.eu hack",
+      "excerpt": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
+      "date": "2026-03-30",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/"
+    },
     {
       "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
       "excerpt": "Oracle informerar om en kritisk sårbarhet (CVE-2026-21992) i Oracle Identity Manager och Oracle Web Services Manager. Sårbarheten har fått en klassning på 9.8 enligt CVSS 3.1. [1]",
@@ -8,14 +16,6 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
-    },
-    {
-      "title": "Dutch Police discloses security breach after phishing attack",
-      "excerpt": "The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data. [...]",
-      "date": "2026-03-27",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/"
     },
     {
       "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
@@ -26,14 +26,6 @@
       "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
     },
     {
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "excerpt": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The...",
-      "date": "2026-03-28",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
-    },
-    {
       "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
       "excerpt": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development...",
       "date": "2026-03-27",
@@ -42,12 +34,20 @@
       "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html"
     },
     {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "excerpt": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent...",
-      "date": "2026-03-27",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
+      "title": "Råd kring säkerhet i e-post",
+      "excerpt": "Det är ett vanligt förekommande problem att e-post används för bedrägerier. Bedragare kan använda e-post som ett verktyg för nätfiske och på så sätt försöka skapa sig åtkomst till känslig...",
+      "date": "2026-03-19",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/sakerhet-i-epost.html"
+    },
+    {
+      "title": "Patchtisdag mars 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för mars. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
+      "date": "2026-03-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/patchtisdag-mars-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
