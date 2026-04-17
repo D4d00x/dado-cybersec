@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T07:44:57.444Z",
+  "lastUpdated": "2026-04-17T07:45:51.645Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "excerpt": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is...",
-      "date": "2026-04-15",
+      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
+      "excerpt": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
+      "date": "2026-04-16",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/"
     },
     {
-      "title": "Microsoft: April Windows Server 2025 update may fail to install",
-      "excerpt": "Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "excerpt": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than...",
+      "date": "2026-04-17",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html"
+    },
+    {
+      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+      "excerpt": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
+      "date": "2026-04-17",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/"
+    },
+    {
+      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+      "excerpt": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December...",
       "date": "2026-04-16",
       "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/"
-    },
-    {
-      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
-      "excerpt": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across industries, leadership teams have embraced its broader potential, and boards, investors, and executives...",
-      "date": "2026-04-15",
-      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html"
+      "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html"
     },
     {
-      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-      "excerpt": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its...",
-      "date": "2026-04-15",
-      "category": "Nyheter",
+      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+      "excerpt": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you...",
+      "date": "2026-04-16",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html"
-    },
-    {
-      "title": "Signed software abused to deploy antivirus-killing scripts",
-      "excerpt": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and...",
-      "date": "2026-04-15",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/"
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
     }
   ]
 }
