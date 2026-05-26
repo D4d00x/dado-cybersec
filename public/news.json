@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T10:04:03.845Z",
+  "lastUpdated": "2026-05-26T09:54:53.201Z",
   "articles": [
     {
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "excerpt": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing...",
-      "date": "2026-05-23",
+      "title": "CERT-In Mandates 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "excerpt": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being...",
+      "date": "2026-05-26",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
     },
     {
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "excerpt": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using...",
-      "date": "2026-05-22",
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "excerpt": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web...",
+      "date": "2026-05-26",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
+      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
     },
     {
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "excerpt": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation...",
-      "date": "2026-05-22",
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "excerpt": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as...",
+      "date": "2026-05-26",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/"
     },
     {
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "excerpt": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-      "date": "2026-05-23",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
+      "title": "CERT-SE:s veckobrev v.20",
+      "excerpt": "Denna vecka vill vi tipsa om att vi har publicerat enkla och korta ”Tabletop”-övningar för hantering av utpressningsangrepp, överbelastningsangrepp och nätfiske. Du hittar övningarna här:...",
+      "date": "2026-05-15",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v20.html"
     }
   ]
 }
