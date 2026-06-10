@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T09:41:06.621Z",
+  "lastUpdated": "2026-06-10T09:57:59.004Z",
   "articles": [
-    {
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "excerpt": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin...",
-      "date": "2026-06-09",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/"
-    },
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
       "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-      "excerpt": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message...",
-      "date": "2026-06-08",
-      "category": "Praktiska tips",
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "excerpt": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The...",
+      "date": "2026-06-09",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
+      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
     },
     {
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "excerpt": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer...",
-      "date": "2026-06-08",
-      "category": "Hotbild",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "excerpt": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected...",
+      "date": "2026-06-10",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/"
     },
     {
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "excerpt": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "date": "2026-06-08",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "excerpt": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges....",
+      "date": "2026-06-10",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/"
     },
     {
-      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-      "excerpt": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-      "date": "2026-06-08",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/"
+      "title": "CERT-SE:s veckobrev v.22",
+      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
+      "date": "2026-05-29",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.21",
+      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
+      "date": "2026-05-22",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
     }
   ]
 }
