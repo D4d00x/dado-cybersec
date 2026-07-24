@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T08:27:39.029Z",
+  "lastUpdated": "2026-07-24T08:25:19.183Z",
   "articles": [
-    {
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "excerpt": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "date": "2026-07-23",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/"
-    },
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
       "excerpt": "SonicWall har publicerat säkerhetsuppdateringar gällande två sårbarheter (CVE-2026-15409 och CVE-2026-15410) i SMA1000-serien. [1] CISA har lagt till dessa sårbarheter i KEV-katalogen (Known...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "excerpt": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under...",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "excerpt": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "date": "2026-07-24",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/"
+    },
+    {
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "excerpt": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
       "date": "2026-07-23",
       "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/"
     },
     {
-      "title": "Skadliga npm-paket",
-      "excerpt": "Ett koordinerat leveranskedjeangrepp har drabbat separata AsyncAPI GitHub-repon. Angripare har utnyttjat en sårbarhet i GitHub Actions. [1]",
-      "date": "2026-07-14",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/07/skadliga-npm-paket.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.25",
-      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
-      "date": "2026-06-18",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
-    },
-    {
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "excerpt": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a...",
-      "date": "2026-07-22",
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "excerpt": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows...",
+      "date": "2026-07-24",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
+      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"
+    },
+    {
+      "title": "Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juli. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-07-15",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/07/patchtisdag-juli-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "Information och rekommendationer gällande säkerhet kring brandväggar",
+      "excerpt": "Brandväggar är en återkommande utmaning gällande angrepp från hotaktörer. Nu senast den uppmärksammade FortiBleed-läckan, där hotaktörer utnyttjar läckta inloggningsuppgifter i stor skala. [1] Med...",
+      "date": "2026-06-22",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/cert-se-information-gallande-sakerhet-i-brandvaggar.html"
     }
   ]
 }
