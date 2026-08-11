@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-10T07:37:39.715Z",
+  "lastUpdated": "2026-08-11T07:04:13.116Z",
   "articles": [
     {
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "excerpt": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "date": "2026-08-07",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+      "date": "2026-08-10",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/"
     },
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -18,28 +18,28 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "excerpt": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM)...",
-      "date": "2026-08-08",
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "excerpt": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and...",
+      "date": "2026-08-10",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html"
+      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
     },
     {
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV)...",
-      "date": "2026-08-08",
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "excerpt": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics,...",
+      "date": "2026-08-10",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html"
     },
     {
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "excerpt": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "date": "2026-08-08",
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "excerpt": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "date": "2026-08-10",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/"
     },
     {
       "title": "Ny skadlig kod sprids genom JavaScript ekosystemet - Chaindrop",
