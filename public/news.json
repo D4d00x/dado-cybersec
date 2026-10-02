@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-01T12:29:21.374Z",
+  "lastUpdated": "2026-10-02T11:55:36.623Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.38",
-      "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
-      "date": "2026-09-18",
+      "title": "Kritisk sårbarhet i FortiMail",
+      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i FortiMail. Sårbarheten, CVE-2026-104286, har fått en CVSS-klassning på 9.8 och påverkar FortiMail managements gränssnitt. Ett...",
+      "date": "2026-10-02",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
+      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-fortimail.html"
     },
     {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "excerpt": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing...",
-      "date": "2026-09-30",
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "excerpt": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on...",
+      "date": "2026-10-01",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
     },
     {
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "excerpt": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of...",
-      "date": "2026-10-01",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "excerpt": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone...",
+      "date": "2026-10-02",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html"
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
     },
     {
-      "title": "F5 informerar om kritisk sårbarhet i BIG-IP APM",
-      "excerpt": "F5 har publicerat information om en kritisk sårbarhet, CVE-2026-94127, i BIG-IP APM. Sårbarheten kan resultera i att en oautentiserad angripare kan fjärrexekvera godtycklig kod.",
-      "date": "2026-09-23",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/information-om-kritisk-sarbarhet-i-big-ip-apm.html"
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "excerpt": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "date": "2026-10-02",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/"
     },
     {
-      "title": "Kritisk sårbarhet i Cisco Secure Email Gateway utnyttjas aktivt",
-      "excerpt": "Cisco har publicerat information om en kritisk SQL injection-sårbarhet i Cisco Secure Email Gateway som utnyttjas aktivt. Sårbarheten (CVE-2026-76461) har fått CVSS-klassificering 9.8 (CVSS v.3.1)....",
-      "date": "2026-09-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/kritisk-sarbarhet-i-cisco-secure-email-gateway-utnyttjas-aktivt.html"
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "excerpt": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on...",
+      "date": "2026-10-01",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
     },
     {
-      "title": "GitLab rättar kritiska sårbarheter",
-      "excerpt": "GitLab har publicerat säkerhetsuppdateringar för flera sårbarheter i GitLab Community Edition (CE) och Enterprise Edition (EE). [1] Två av dessa sårbarheter, CVE-2026-85706 och CVE-2026-87719,...",
-      "date": "2026-09-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html"
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "excerpt": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the...",
+      "date": "2026-10-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
     }
   ]
 }
