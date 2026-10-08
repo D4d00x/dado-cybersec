@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T12:41:42.885Z",
+  "lastUpdated": "2026-10-08T12:51:19.356Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "excerpt": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including...",
-      "date": "2026-10-06",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "excerpt": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no...",
+      "date": "2026-10-07",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html"
     },
     {
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "excerpt": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths...",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "excerpt": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
       "date": "2026-10-07",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+    },
+    {
+      "title": "Antar du vår utmaning? / Do you accept our challenge?",
+      "excerpt": "CERT-SE presenterar vår årliga utmaning (CTF) som sker under cybersäkerhetsmånaden [1, 2]. Utmaningen vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå.",
+      "date": "2026-10-02",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/antar-du-var-utmaning.html"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.40",
+      "excerpt": "Oktober är cybersäkerhetsmånaden och vi vill passa på att slå ett slag för de kunskapshöjande aktiviteter som erbjuds genom NCSC:s och polisens cybersäkerhetskampanj “Tänk Säkert”.",
+      "date": "2026-10-02",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v40.html"
+    },
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "excerpt": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic...",
+      "date": "2026-10-08",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html"
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "excerpt": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "date": "2026-10-07",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
-    },
-    {
-      "title": "Cisco publicerar säkerhetsuppdateringar för flera sårbarheter",
-      "excerpt": "Den 16 september publicerade Cisco säkerhetsuppdateringar för flera sårbarheter, där några av dessa utnyttjas aktivt enligt Cisco. [1, 2] Ett exempel är CVE-2026-76460, en sårbarhet i ett API för...",
-      "date": "2026-09-17",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cisco-publicerar-sakerhetsuppdateringar.html"
-    },
-    {
-      "title": "MISP-dagen 2026 - anmälan stängd",
-      "excerpt": "Varmt välkommen till en dag för alla som vill stärka Sveriges cybersäkerhet genom informationsdelning!",
-      "date": "2026-09-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
+      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
     }
   ]
 }
