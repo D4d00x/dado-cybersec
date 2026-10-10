@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:36:59.466Z",
+  "lastUpdated": "2026-10-10T11:57:10.056Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "excerpt": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "excerpt": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
       "date": "2026-10-09",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/"
     },
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "excerpt": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity...",
-      "date": "2026-10-09",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "excerpt": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to...",
+      "date": "2026-10-10",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html"
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
     },
     {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "excerpt": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show...",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "excerpt": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over...",
       "date": "2026-10-09",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
     },
     {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "excerpt": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "excerpt": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had...",
       "date": "2026-10-09",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/"
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
     },
     {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "excerpt": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "excerpt": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California...",
       "date": "2026-10-09",
       "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
     }
   ]
 }
