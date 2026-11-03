@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-02T14:49:26.265Z",
+  "lastUpdated": "2026-11-03T13:39:57.014Z",
   "articles": [
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "excerpt": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS...",
+      "date": "2026-11-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html"
+    },
     {
       "title": "CERT-SE:s veckobrev v.43",
       "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "excerpt": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset...",
-      "date": "2026-11-01",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
-    },
-    {
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "excerpt": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and...",
-      "date": "2026-11-02",
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "excerpt": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk...",
+      "date": "2026-11-03",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html"
     },
     {
-      "title": "Patchtisdag oktober 2026",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för oktober.",
-      "date": "2026-10-14",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/patchtisdag-oktober-2026.html"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "excerpt": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky...",
-      "date": "2026-11-01",
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "excerpt": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group...",
+      "date": "2026-11-03",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
+      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"
     },
     {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "excerpt": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on...",
-      "date": "2026-11-01",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "excerpt": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed...",
+      "date": "2026-11-03",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "excerpt": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability...",
+      "date": "2026-11-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
     }
   ]
 }
