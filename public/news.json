@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-18T15:08:07.841Z",
+  "lastUpdated": "2026-11-19T15:17:17.253Z",
   "articles": [
     {
-      "title": "Kritisk sårbarhet i Oracle Java",
-      "excerpt": "Oracle har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i programmeringsspråket och utvecklingsplattformen Oracle Java. [1][2]",
+      "title": "Kritisk sårbarhet i Apache Axis",
+      "excerpt": "Apache har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i det öppna källkodsramverket Apache Axis. [1]",
+      "date": "2026-11-19",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html"
+    },
+    {
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "excerpt": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "date": "2026-11-19",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    },
+    {
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "excerpt": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help...",
+      "date": "2026-11-19",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"
+    },
+    {
+      "title": "Allvarlig sårbarhet i Oracle Java",
+      "excerpt": "Oracle har publicerat säkerhetsuppdateringar gällande en allvarlig sårbarhet i programmeringsspråket och utvecklingsplattformen Oracle Java. [1][2]",
       "date": "2026-11-18",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html"
+      "link": "https://www.cert.se/2026/11/allvarlig-sarbarhet-i-oracle-java.html"
     },
     {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "excerpt": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+      "title": "NCSC – CERT-SE veckobrev v.45",
+      "excerpt": "I veckans brev kan du läsa om de cyberangrepp som drabbade flera livsmedelsbutiker i Sverige och andra europeiska länder tidigare i veckan.",
+      "date": "2026-11-06",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v45.html"
     },
     {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as...",
-      "date": "2026-11-18",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
-    },
-    {
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "excerpt": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity,...",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
-    },
-    {
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "excerpt": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions...",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html"
-    },
-    {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "excerpt": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world...",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/"
+      "title": "NCSC – CERT-SE veckobrev v.44",
+      "excerpt": "I veckans brev kan du läsa om att den norska nationella säkerhetsmyndigheten (NSM) höjer den nationella cyberrisknivån till hög. Du hittar även information om att sårbarheterna i PHP har lagts till i...",
+      "date": "2026-10-30",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/ncsc-cert-se-veckobrev-v44.html"
     }
   ]
 }
